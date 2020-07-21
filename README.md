@@ -10,9 +10,21 @@ I made this library with the knowledge I gained from making private servers for 
 
 In my opinion, some stuff shouldn't be open sourced, mainly Unity adaptations for closed source code from them. If you wish to have these closed source adaptations, you should be able to find it somewhere.
 
+## Does it have a documentation on how to use it?
+
+Not yet but it will have. 
+
 ### Credits
 
 - Unity
 - BigPoint
 - aeroson (For most of the implementation of UnityEngine.Quaternion)
 - Florek (aka Mementomori)
+
+### Special thanks to
+
+- Oceandust
+- Bubisnew
+- Tyler Robotnik
+
+Without these people, I wouldn't have gotten as far as I did. They helped me a lot with throught processes behind a lot of code throught these years.
