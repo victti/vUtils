@@ -1,4 +1,6 @@
-# Server Utils
+# vUtils
+
+## What is it?
 
 A C# library, along with a C++ helper dll, that will help you make game servers for games, preferable for Unity games.
 
