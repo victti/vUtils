@@ -20,6 +20,7 @@ Not yet but it will have.
 
 - Unity
 - BigPoint
+- Behavior Interactive
 - aeroson (For most of the implementation of UnityEngine.Quaternion)
 - Florek (aka Mementomori)
 
